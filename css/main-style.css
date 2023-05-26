@@ -39,7 +39,7 @@ main{
 .carousel img{
     justify-content: center;
     max-width: 50rem;
-    height: 20rem;
+    height: 25rem;
 }
 
 .cards-album-container{
@@ -58,4 +58,8 @@ main{
 .card:hover {
     transform: scale(1.1); 
     z-index: 1;
+}
+
+.dropdown-item:hover{
+    background-color: bisque;
 }
