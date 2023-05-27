@@ -38,8 +38,8 @@ main{
 
 .carousel img{
     justify-content: center;
-    max-width: 100%;
-    height: auto;
+    max-width: 50rem;
+    height: 20rem;
 }
 
 .cards-album-container{
