@@ -38,8 +38,8 @@ main{
 
 .carousel img{
     justify-content: center;
-    max-width: 50rem;
-    height: 20rem;
+    max-width: 100%;
+    height: auto;
 }
 
 .cards-album-container{
@@ -48,11 +48,6 @@ main{
 
 .card{
     transition: all .2s ease-in-out;
-    border-radius: 25px; 
-}
-
-.card img{
-    border-radius: 20px;
 }
 
 .card:hover {
